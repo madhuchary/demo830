@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "hello Welcome to jenkins demo
+echo "hello Welcome to jenkins demo"
 
