@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "This is step three
+echo "This is step three"
